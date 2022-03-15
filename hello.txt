@@ -16,3 +16,4 @@ zai github shangmian xiugai de
 zai xinde wenjianjia xiugai de 
 ceshi ssh mianmi denglu
 ceshi ssh push
+ceshi ssh push 2
